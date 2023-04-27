@@ -1,6 +1,6 @@
 # D-MIN
 Communication robot capable of wireless remote control.
-元ネタ：https://github.com/McbeEringi/esp-rc
+- 元ネタ：https://github.com/McbeEringi/esp-rc
 
 ## 初期コンセプト
 安価なESP32-C3をマイコンとして用い、手くらいのサイズの室内用ロボット
